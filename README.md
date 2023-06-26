@@ -2,7 +2,7 @@
 
 - 🖥️ GBS IS Service Centre Intern at NSG Group
 - 💻 Back-end and front-end developer ...
-- 💻 Learning python...
+- 💻 Learning Java...
 - 💬 E-mail: [santosdesouzajhony@gmail.com](mailto:santosdesouzajhony@gmail.com) ...
 - 💬 Linkedin: https://www.linkedin.com/in/jhony-santos-de-souza-920229238 ...
 
@@ -16,7 +16,9 @@
 <img style:"center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 <img style:"center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 <img style:"center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img style:"center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<img style:"center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
+<img style:"center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+          
 </div>
    
    <hr></hr>
