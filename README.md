@@ -9,6 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosjhony12&layout=compact)](https://github.com/santosjhony12/github-readme-stats)
 ![Jhony's GitHub stats](https://github-readme-stats.vercel.app/api/?username=santosjhony12&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![Snake animation](https://github.com/santosjhony12/santosjhony12/blob/output/github-contribution-grid-snake.svg)
 <div style="display: inline_block"><br>
 <img style:"center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img style:"center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
