@@ -5,7 +5,7 @@
 
 <h3 align="left"> About me:</h3>
 <p align=left >
-          I'm a FullStack developer and studying database at the College of Technology (FATEC) in São José dos Campos. I am currently interning as a GBS IS Service Center Intern at NSG Group. Besides, my focus this semester is the development of applications using the Java programming language. I am passionate about technology, I like to challenge myself in times of development.
+          I'm a FullStack developer and studying database at the College of Technology (FATEC) in São José dos Campos. I am currently interning as a Data Management Intern at NSG Group. Besides, my focus this semester is the development of applications using the Java programming language. I am passionate about technology, I like to challenge myself in times of development.
 </p>
 <br>
 <h3 align="left"> 💻 Languages and tools: </h3>
