@@ -1,4 +1,4 @@
-<h1 align=center>Hi, I am Jhony Santos. I'm a FullStack Developer 👨‍💻</h1> 
+<h1 align=center>Hi, I am Jhony Santos 👨‍💻</h1> 
 <h4 style=bold align=center>System.out.println('Keep calm and code on.'); </h4>
 
 <img align="right" height=250 width=250 src="https://i.pinimg.com/564x/d3/9f/ca/d39fcae9dc1caba7c5795ee4db8b2313.jpg">
