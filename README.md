@@ -5,7 +5,14 @@
 
 <h3 align="left"> About me:</h3>
 <p align=left >
-          I'm a FullStack developer and studying database at the College of Technology (FATEC) in São José dos Campos. I am currently interning as a Data Management Intern at NSG Group. Besides, my focus this semester is the development of applications using the Java programming language. I am passionate about technology, I like to challenge myself in times of development.
+          I'm a Data Analyst and aspiring Data Scientist with a background in Database Technology and Software Development.
+
+Currently, I work with Data Analytics and Digital Continuous Improvement in Manufacturing, using Python, SQL, Power BI, Excel, VBA, and SAP to transform data into insights and support business decisions.
+
+I hold a degree in Database Technology from FATEC and am pursuing a postgraduate degree in Data Science & Big Data Analytics. I also have experience with software development, including Java, Python, JavaScript, and web technologies.
+
+I'm passionate about technology, data, and continuous learning. I enjoy solving problems, building practical solutions, and exploring how data can create real business value.
+
 </p>
 <br>
 <h3 align="left"> 💻 Languages and tools: </h3>
